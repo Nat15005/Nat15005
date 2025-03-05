@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🌙✨ ¡Hola, soy Natalia Rojas! 🚀💡  
+🔹 **Ingeniera de Sistemas en formación | FullStack Developer**  
+🔹 **Apasionada por la tecnología**  
 
-<!--
-**Nat15005/Nat15005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Creo soluciones eficientes y escalables. Me encanta el desarrollo backend y optimizar sistemas con alto rendimiento.  
 
-Here are some ideas to get you started:
+🌟 **Tecnologías con las que trabajo:**  
+- 🛠 **Backend:** Java, Spring Boot, Node.js  
+- 🗄 **Bases de datos:** PostgreSQL, MySQL, MongoDB  
+- ☁ **Cloud & DevOps:** Docker, AWS  
+- 🎨 **Frontend:** React, JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Proyectos destacados:**  
+🔹 [Swipe Ur Style](#) – Un armario virtual hecho en React para elegir outfits e inspirarte.  
+🔹 [Gomoku Game](#) – Implementación digital de un juego de estrategia en Java.  
+
+🌎 Me encanta aprender, compartir conocimiento y trabajar en equipo. Siempre en busca de nuevos retos y oportunidades para innovar.  
+
+📫 **Conéctate conmigo:**  
+🔗 [[LinkedIn]](https://www.linkedin.com/in/laura-natalia-rojas-robayo-a061b2305/)(#)  
+
