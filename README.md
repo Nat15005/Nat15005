@@ -17,5 +17,5 @@
 🌎 Me encanta aprender, compartir conocimiento y trabajar en equipo. Siempre en busca de nuevos retos y oportunidades para innovar.  
 
 📫 **Conéctate conmigo:**  
-🔗 [[LinkedIn]](https://www.linkedin.com/in/laura-natalia-rojas-robayo-a061b2305/)(#)  
+🔗 [LinkedIn](https://www.linkedin.com/in/laura-natalia-rojas-robayo-a061b2305/)(#)  
 
