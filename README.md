@@ -1,21 +1,23 @@
-# ✨ ¡Hola, soy Natalia Rojas! 🚀  
-🔹 **Ingeniera de Sistemas en formación | FullStack Developer**  
-🔹 **Apasionada por la tecnología**  
+# 👋 Hi, I'm Natalia Rojas!  
+🎓 **Software Engineering Student** | 💻 **Backend & Full Stack Developer** | 🚀 **Tech Enthusiast**  
+I'm a **final-year Systems Engineering student** passionate about **software development, backend technologies, and cloud computing**. I enjoy building **scalable and high-quality solutions** using Java, Python, and modern web technologies.  
 
-💻 Creo soluciones eficientes y escalables. Me encanta el desarrollo backend y optimizar sistemas con alto rendimiento.  
+🔍 **Currently learning:** Advanced Java, Cloud Computing (AWS/Azure), and React.  
+🎯 **Interested in:** Backend Development | DevOps | Agile Methodologies.  
 
-🌟 **Tecnologías con las que trabajo:**  
-- 🛠 **Backend:** Java, Spring Boot, Node.js  
-- 🗄 **Bases de datos:** PostgreSQL, MySQL, MongoDB  
-- ☁ **Cloud & DevOps:** Docker, AWS  
-- 🎨 **Frontend:** React, JavaScript  
+---
 
-🚀 **Proyectos destacados:**  
-🔹 [Swipe Ur Style](#) – Un armario virtual hecho en React para elegir outfits e inspirarte.  
-🔹 [Gomoku Game](#) – Implementación digital de un juego de estrategia en Java.  
+### 🚀 Tech Stack  
 
-🌎 Me encanta aprender, compartir conocimiento y trabajar en equipo. Siempre en busca de nuevos retos y oportunidades para innovar.  
+💻 **Languages:** Java, Python, JavaScript, SQL  
+🛠 **Frameworks & Tools:** Spring Boot, React, Node.js  
+📦 **Databases:** MySQL, PostgreSQL, MongoDB  
+☁ **Cloud & DevOps:** AWS, Azure, Docker  
+🔧 **Version Control:** Git, GitHub  
+📌 **Methodologies:** Agile, SCRUM  
 
-📫 **Conéctate conmigo:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/laura-natalia-rojas-robayo-a061b2305/)
+🌎 I love learning, sharing knowledge, and working in teams. Always looking for new challenges and opportunities to innovate. 
+
+📫 **Connect with me:**
+🔗 [LinkedIn](https://www.linkedin.com/in/laura-natalia-rojas-robayo)
 
