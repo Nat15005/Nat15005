@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Natalia Rojas!  
 🎓 **Software Engineering Student** | 💻 **Backend & Full Stack Developer** | 🚀 **Tech Enthusiast**  
+
 I'm a **final-year Systems Engineering student** passionate about **software development, backend technologies, and cloud computing**. I enjoy building **scalable and high-quality solutions** using Java, Python, and modern web technologies.  
 
 🔍 **Currently learning:** Advanced Java, Cloud Computing (AWS/Azure), and React.  
