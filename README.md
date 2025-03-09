@@ -11,7 +11,7 @@ I'm a **final-year Systems Engineering student** passionate about **software dev
 ### 🚀 Tech Stack  
 
 💻 **Languages:** Java, Python, JavaScript, SQL  
-🛠 **Frameworks & Tools:** Spring Boot, React, Node.js  
+🛠 **Frameworks & Tools:** Spring Boot, React 
 📦 **Databases:** MySQL, PostgreSQL, MongoDB  
 ☁ **Cloud & DevOps:** AWS, Azure, Docker  
 🔧 **Version Control:** Git, GitHub  
